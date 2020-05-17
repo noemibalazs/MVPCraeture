@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVPCraeture</string>
+    <string name="tap_text">Tap to set the avatar</string>
+    <string name="name">Name</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="save">Save</string>
+    <string name="strength">Strength</string>
+    <string name="endurance">Endurance</string>
+    <string name="hit_points">Hit points</string>
+</resources>
